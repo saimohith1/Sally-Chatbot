@@ -1,15 +1,15 @@
-Hi, I'm Bingi Sai Mohith! 👋
-I'm a dual-degree student pursuing BTech in Electrical and Electronics Engineering at Jawaharlal Nehru Technological University and BS in Data Science and Applications at IIT Madras. Passionate about data science, machine learning, and problem-solving, I specialize in Python, SQL, and data analysis. I’m eager to tackle challenging projects and contribute to innovative solutions while continuously learning.
-🌟 Currently exploring: Advanced data analytics, AI/ML applications, and open-source contributions.
+Hello, I'm Bingi Sai Mohith! 🚀
+Welcome to my GitHub! I'm a dual-degree student pursuing a BTech in Electrical and Electronics Engineering at Jawaharlal Nehru Technological University and a BS in Data Science and Applications at IIT Madras. I’m passionate about data science, machine learning, and leveraging Python and SQL to solve real-world problems. With strong analytical skills and a knack for leadership, I’m excited to contribute to innovative projects and grow through continuous learning.
+🔍 Currently diving into: Data analytics, AI/ML, and open-source development.
 
-🛠️ Skills
+💻 Skills
 Technical
 
-Programming: Python, SQL
-Tools: JupyterLab, Streamlit, Git
-Domains: Data Analysis, Machine Learning, Geodata Analysis
+Languages: Python, SQL
+Tools: JupyterLab, Streamlit, Git, VS Code
+Expertise: Data Analysis, Machine Learning, Geodata Analysis
 
-Non-Technical
+Soft Skills
 
 Time Management
 Leadership
@@ -25,9 +25,9 @@ Telugu (Fluent)
 
 🎓 Education
 
-BS in Data Science and ApplicationsIndian Institute of Technology, Madras (2022–2027)Percentage: 79%
+BS in Data Science and ApplicationsIndian Institute of Technology, Madras (2022–2027)CGPA: 79%
 
-BTech in Electrical and Electronics EngineeringJawaharlal Nehru Technological University (2022–2026)Percentage: 70%
+BTech in Electrical and Electronics EngineeringJawaharlal Nehru Technological University (2022–2026)CGPA: 70%
 
 Class 12 (Intermediate)Narayana Junior College (2022)Percentage: 92%
 
@@ -35,7 +35,7 @@ Class 10 (SSC)FIITJEE School (2020)Percentage: 100%
 
 
 
-🏆 Certifications
+🥇 Certifications
 
 English for Career Development – University of Pennsylvania
 Elements of AI – University of Helsinki
@@ -44,22 +44,13 @@ SQL (Basic) – HackerRank
 SQL (Intermediate) – HackerRank
 
 
-📂 Projects
-Coming soon! I’m working on exciting projects in data analysis and machine learning. Stay tuned for updates or check out my repositories below.
 
-[Project Name Placeholder]Description: A data analysis project using Python and Streamlit to visualize insights.Tech Stack: Python, Streamlit, Pandas[Link to Repository] (Add when available)
-
-[Geodata Analysis Project]Description: Applied AI/ML techniques to analyze geospatial data, inspired by ISRO certification.Tech Stack: Python, Scikit-learn, SQL[Link to Repository] (Add when available)
-
-
-
-📫 Get in Touch
+📬 Connect with Me
 
 Email: saimohithbingi@gmail.com
 LinkedIn: Sai Mohith Bingi
-GitHub: [github.com/yourusername] (Update with your GitHub username)
+GitHub: [github.com/saimohith1]
 
-💡 Interested in collaborating? I’m always open to working on data science projects, hackathons, or open-source contributions. Feel free to reach out!
+🤝 Open to collaboration! I’m eager to work on data science projects, hackathons, or open-source initiatives. Drop me a message!
 
-⭐️ If you like what I’m working on, give my repos a star or drop me a message to chat about tech, data, or ideas!
-
+🌟 Enjoying my work? Star my repos or reach out to discuss tech, data, or new ideas!
