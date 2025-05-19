@@ -49,8 +49,6 @@ I'm a dual-degree student pursuing a **BTech in Electrical and Electronics Engin
 
 ---
 
-#---
-
 ## 🤝 Connect with Me
 
 - Email: [saimohithbingi@gmail.com](mailto:saimohithbingi@gmail.com)  
