@@ -11,14 +11,9 @@ I'm a dual-degree student pursuing a **BTech in Electrical and Electronics Engin
 
 **Technical:**  
 - Python  
-- SQL  
-- JupyterLab  
-- Streamlit  
-- Git  
-- VS Code  
-- Data Analysis  
+- SQL      
+- MS Excel
 - Machine Learning  
-- Geodata Analysis  
 
 **Soft Skills:**  
 - Time Management  
@@ -54,27 +49,13 @@ I'm a dual-degree student pursuing a **BTech in Electrical and Electronics Engin
 
 ---
 
-## 💡 Projects
-
-**My portfolio is growing! Check back for updates on these projects:**
-
-- **Data Visualization Dashboard**  
-  Building an interactive dashboard with Streamlit for data insights.  
-  *Tech Stack:* Python, Streamlit, Pandas, Matplotlib  
-  *[Repository Link]* (Coming soon)
-
-- **Geospatial ML Model**  
-  Applying AI/ML to geospatial data, inspired by ISRO’s geodata course.  
-  *Tech Stack:* Python, Scikit-learn, SQL  
-  *[Repository Link]* (Coming soon)
-
----
+#---
 
 ## 🤝 Connect with Me
 
 - 📧 Email: [saimohithbingi@gmail.com](mailto:saimohithbingi@gmail.com)  
 - [LinkedIn: Sai Mohith Bingi](https://www.linkedin.com/in/sai-mohith-bingi-194b20256)  
-- [GitHub: github.com/yourusername](https://github.com/yourusername) <!-- Update with your GitHub username -->
+- [GitHub: github.com/saimohith1](https://github.com/saimohith1)
 
 ---
 
