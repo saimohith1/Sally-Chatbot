@@ -53,9 +53,9 @@ I'm a dual-degree student pursuing a **BTech in Electrical and Electronics Engin
 
 ## 🤝 Connect with Me
 
-- 📧 Email: [saimohithbingi@gmail.com](mailto:saimohithbingi@gmail.com)  
-- [LinkedIn: Sai Mohith Bingi](https://www.linkedin.com/in/sai-mohith-bingi-194b20256)  
-- [GitHub: github.com/saimohith1](https://github.com/saimohith1)
+- Email: [saimohithbingi@gmail.com](mailto:saimohithbingi@gmail.com)  
+- LinkedIn: [Sai Mohith Bingi](https://www.linkedin.com/in/sai-mohith-bingi-194b20256)  
+- GitHub: [github.com/saimohith1](https://github.com/saimohith1)
 
 ---
 
