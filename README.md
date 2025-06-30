@@ -2,6 +2,8 @@
 
 Sally is an AI-powered customer service chatbot built with Streamlit and **Qwen 2 1.5B** from Hugging Face Transformers. Sally provides instant, friendly, and helpful support to users, answering questions, resolving issues, and generating daily analytics reports for your business.
 
+![image](https://github.com/user-attachments/assets/cd555f00-f9c9-46b3-a561-0551d67523c6)
+
 ---
 
 ## 🚀 Features
