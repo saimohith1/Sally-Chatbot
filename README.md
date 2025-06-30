@@ -99,5 +99,3 @@ streamlit run deploy.py
 
 ---
 
-Let me know if you want a **final cleaned version with badges, contributing guidelines, or MIT/Apache licensing section** for immediate GitHub publishing today.
-
